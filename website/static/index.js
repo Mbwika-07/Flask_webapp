@@ -7,8 +7,7 @@ function deleteNote(noteId) {
     });
   
   
-    
 
-    
+
     
   }
